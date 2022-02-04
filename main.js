@@ -12,7 +12,7 @@ bot.telegram.setMyCommands(
     },
     {
       command: '/paid',
-      description: '_'
+      description: 'Эту команду использую только я 🙂'
     }
   ]
 )
